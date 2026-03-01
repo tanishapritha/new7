@@ -1,0 +1,14 @@
+{
+  "project": {
+    "name": "new7",
+    "repo_url": "https://github.com/tanishapritha/new7"
+  },
+  "structure": "monorepo",
+  "apps": [
+    "api",
+    "web"
+  ],
+  "database": [],
+  "endpoints": [],
+  "features": []
+}
